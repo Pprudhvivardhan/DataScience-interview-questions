@@ -1,2 +1,2 @@
 # DataScience-interview-questions
-30 Day Data science questions and answers
+30 Days Data science questions and answers
